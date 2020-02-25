@@ -37,11 +37,11 @@
 			<artifactId>poi</artifactId>
 			<version>3.16-beta2</version>
 		</dependency>
-<!-- https://mvnrepository.com/artifact/org.easyb/easyb -->
+<!-- https://mvnrepository.com/artifact/org.easyb/maven-easyb-plugin -->
 <dependency>
     <groupId>org.easyb</groupId>
-    <artifactId>easyb</artifactId>
-    <version>0.9.7</version>
+    <artifactId>maven-easyb-plugin</artifactId>
+    <version>1.4</version>
 </dependency>
 
 
